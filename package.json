@@ -2,6 +2,7 @@
   "name": "vite-s15",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://StasHolo.github.io/vite-s15",
   "type": "module",
   "scripts": {
     "dev": "vite",
