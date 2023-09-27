@@ -14,6 +14,16 @@
   -webkit-text-size-adjust: 100%;
 }
 
+nav {
+  background-color: aliceblue;
+  
+  padding: 16px 32px;
+}
+
+nav a {
+  margin-right: 16px;
+}
+
 a {
   font-weight: 500;
   color: #646cff;
@@ -26,7 +36,6 @@ a:hover {
 body {
   margin: 0;
   display: flex;
-  place-items: center;
   min-width: 320px;
   min-height: 100vh;
 }
